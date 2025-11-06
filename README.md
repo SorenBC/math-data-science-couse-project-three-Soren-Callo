@@ -16,9 +16,6 @@ Click the following badge to open the notebook in Google Colab.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://github.com/SorenBC/math-data-science-couse-project-three-Soren-Callo/blob/main/project3SorenCallo.ipynb)
 
-*Note.* The URL in your README.md file will need to be modified so that it points to your ipynb. It should be:  
-https://colab.research.google.com/github/**mygithub**/**myreponame**/blob/main/project3.ipynb
-
 
 ### Save a copy in GitHub.
 Immediately 
